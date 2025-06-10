@@ -1,6 +1,7 @@
 {
   "name": "capital-city-vr",
   "version": "0.1.0",
+  "homepage": "https://kyria56.github.io/vrpark",
   "private": true,
   "dependencies": {
     "@radix-ui/react-slot": "^1.2.3",
