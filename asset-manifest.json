@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/vrpark/static/css/main.ed5c78ce.css",
-    "main.js": "/vrpark/static/js/main.bafd5bea.js",
+    "main.css": "/vrpark/static/css/main.d89d4506.css",
+    "main.js": "/vrpark/static/js/main.6bddb978.js",
     "static/js/453.76857e3f.chunk.js": "/vrpark/static/js/453.76857e3f.chunk.js",
     "index.html": "/vrpark/index.html",
-    "main.ed5c78ce.css.map": "/vrpark/static/css/main.ed5c78ce.css.map",
-    "main.bafd5bea.js.map": "/vrpark/static/js/main.bafd5bea.js.map",
+    "main.d89d4506.css.map": "/vrpark/static/css/main.d89d4506.css.map",
+    "main.6bddb978.js.map": "/vrpark/static/js/main.6bddb978.js.map",
     "453.76857e3f.chunk.js.map": "/vrpark/static/js/453.76857e3f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ed5c78ce.css",
-    "static/js/main.bafd5bea.js"
+    "static/css/main.d89d4506.css",
+    "static/js/main.6bddb978.js"
   ]
 }
