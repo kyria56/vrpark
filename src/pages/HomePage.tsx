@@ -82,7 +82,7 @@ export default function HomePage() {
       <div className="relative section-with-background-image">
         <video 
           className="absolute inset-0 w-full h-full object-cover z-0"
-          src="/video.mp4" 
+          src="../../public/video.mp4" 
           autoPlay 
           loop 
           muted 
